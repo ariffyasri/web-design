@@ -10,6 +10,14 @@ Just to brush up my knowledge in web design using bootstrap, php and mysql
 	- images related to the chalet/village/hostel
 4. Create QR code for this website
 
+# For new collaborators
+
+1. Clone this repo
+2. Do some changes
+3. Create new branch, e.g: dev-ariff
+4. Commit to the new branch
+5. Push to the new branch
+6. Merge if there is no conflict
 
 ## Template
 
