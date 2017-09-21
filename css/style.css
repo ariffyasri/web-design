@@ -262,7 +262,7 @@ a.btn:hover {
 	text-align: center;
 }
 .wrapper, .extra_wrapper {
-	overflow: hidden;
+	/*overflow: hidden;*/
 }
 .clear {
 	float: none !important;
